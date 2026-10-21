@@ -1,4 +1,4 @@
-RARA Forklift Kit v1.0.0 - license / ライセンス
+RARA Forklift Kit v1.1.0 - license / ライセンス
 
 (c) 2026 RARA
 

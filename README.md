@@ -8,8 +8,11 @@ A prize from the VRChat world "幸運貯蔵庫 - FortuneDepot".
 
 ## ダウンロード / Download
 
-[Releases](https://github.com/RARA-vrc/RARA-ForkliftKit/releases/latest) から `RARA_ForkliftKit_v1.0.0.unitypackage` をダウンロードしてください。
-Download `RARA_ForkliftKit_v1.0.0.unitypackage` from [Releases](https://github.com/RARA-vrc/RARA-ForkliftKit/releases/latest).
+[Releases](https://github.com/RARA-vrc/RARA-ForkliftKit/releases/latest) から `RARA_ForkliftKit_v1.1.0.unitypackage` をダウンロードしてください。
+Download `RARA_ForkliftKit_v1.1.0.unitypackage` from [Releases](https://github.com/RARA-vrc/RARA-ForkliftKit/releases/latest).
+
+v1.0.0 から更新する時は そのまま上書きで読み込めます（[README_ja.txt](README_ja.txt) の「v1.0.0 から更新する時」）。
+To update from v1.0.0, just import it over the old one (see "Updating from v1.0.0" in [README_en.txt](README_en.txt)).
 
 ## 必要なもの / Requirements
 
@@ -20,6 +23,7 @@ Download `RARA_ForkliftKit_v1.0.0.unitypackage` from [Releases](https://github.c
 
 - 日本語: [README_ja.txt](README_ja.txt)
 - English: [README_en.txt](README_en.txt)
+- 更新履歴 / Changes: [CHANGELOG.md](CHANGELOG.md)
 
 ## ライセンス / License
 
